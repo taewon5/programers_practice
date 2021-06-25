@@ -17,3 +17,5 @@ m과 n이 모두 1인 경우는 입력으로 주어지지 않습니다.
 m	n	puddles	return
 4	3	[[2, 2]]	4
 
+![image](https://user-images.githubusercontent.com/83406220/123379559-48b69480-d5c9-11eb-9fb4-fb73cafa2cbd.png)
+
