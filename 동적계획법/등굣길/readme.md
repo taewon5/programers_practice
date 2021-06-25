@@ -20,6 +20,7 @@ m	n	puddles	return
 ![image](https://user-images.githubusercontent.com/83406220/123379559-48b69480-d5c9-11eb-9fb4-fb73cafa2cbd.png)
 
 채점을 시작합니다.
+
 정확성  테스트
 테스트 1 〉	통과 (0.01ms, 3.96MB)
 테스트 2 〉	실패 (0.01ms, 3.93MB)
