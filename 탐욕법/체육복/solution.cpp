@@ -21,7 +21,7 @@ int solution(int n, vector<int> lost, vector<int> reserve) {
         if(uniform[i]==0&&uniform[i+1]==2){
             uniform[i]+=1;
             uniform[i+1]-=1;
-        }else if(uniform[i]==0&&uniform[i-1]==2){
+        }else if(uniform[i]==0&&uniform[i-1]==2){ //아니면 앞사람에게 받음
             uniform[i]+=1;
             uniform[i-1]-=1;
         }
